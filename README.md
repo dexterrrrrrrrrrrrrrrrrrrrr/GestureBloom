@@ -51,13 +51,16 @@ The gestures are mapped into real-time changes in the virtual flower animation.
 GestureBloom/
 │
 ├── main.py              # Main execution file
+│
 ├── flower.py            # Flower growth and bloom logic
+│
 ├── assets/
+│   │
 │   └── flower.png       # Flower image resources
 │
 ├── requirements.txt     # Dependencies
+│
 └── README.md            # Documentation
-
 ---
 
 ## ⚙️ Installation
