@@ -61,7 +61,7 @@ GestureBloom/
 ├── requirements.txt     # Dependencies
 │
 └── README.md            # Documentation
----
+
 ~~~
 ## ⚙️ Installation
 
