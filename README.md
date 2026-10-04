@@ -47,7 +47,7 @@ The gestures are mapped into real-time changes in the virtual flower animation.
 ---
 
 ## 📂 Project Structure
-
+~~~
 GestureBloom/
 │
 ├── main.py              # Main execution file
@@ -62,7 +62,7 @@ GestureBloom/
 │
 └── README.md            # Documentation
 ---
-
+~~~
 ## ⚙️ Installation
 
 ### Clone the repository
